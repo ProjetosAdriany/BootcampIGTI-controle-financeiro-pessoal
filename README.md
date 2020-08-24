@@ -1,5 +1,4 @@
-![Logo of the project](http://logo_link)
- 
+
 ## :information_source: Bootcamp IGTI Controle Financeiro Pessoal
 Desafio final do Bootcamp IGTI Full Stack contemplando Node + ReactJS
  
@@ -24,4 +23,4 @@ Desafio final do Bootcamp IGTI Full Stack contemplando Node + ReactJS
 
 ## Autor
  
-* **Adriany Aires** 
+**Adriany Aires** 
