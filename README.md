@@ -1,6 +1,6 @@
 
 ## :information_source: Bootcamp IGTI Controle Financeiro Pessoal
-Desafio final do Bootcamp IGTI Full Stack contemplando Node + ReactJS
+Desafio final do Bootcamp IGTI Full Stack contemplando Node + ReactJS + MongoDB
  
 ## :rocket: Tecnologias 
   
